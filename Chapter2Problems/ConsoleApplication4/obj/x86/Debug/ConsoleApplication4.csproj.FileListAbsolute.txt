@@ -1,0 +1,5 @@
+C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb

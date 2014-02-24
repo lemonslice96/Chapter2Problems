@@ -9,11 +9,12 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            int hoursandminutes, minutes = 273;
+            int hoursandminutes, remainderminutes, minutes = 273;
 
-            hoursandminutes = minutes / 60 % 60;
+            hoursandminutes = minutes / 60;
+            remainderminutes = minutes % 60; 
 
-            Console.WriteLine("{0}", hoursandminutes);
+            Console.WriteLine("You worked for {0} hours and {1} minutes!", hoursandminutes, remainderminutes);
         }
     }
 }
