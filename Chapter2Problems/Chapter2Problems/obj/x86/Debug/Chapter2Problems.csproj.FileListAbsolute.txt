@@ -3,3 +3,8 @@ C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\Chapter2Probl
 C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\Chapter2Problems\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\Chapter2Problems\obj\x86\Debug\Chapter2Problems.exe
 C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\Chapter2Problems\obj\x86\Debug\Chapter2Problems.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter2Problems\Chapter2Problems\Chapter2Problems\bin\Debug\Chapter2Problems.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter2Problems\Chapter2Problems\Chapter2Problems\bin\Debug\Chapter2Problems.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter2Problems\Chapter2Problems\Chapter2Problems\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EASHCS\Documents\GitHub\Chapter2Problems\Chapter2Problems\Chapter2Problems\obj\x86\Debug\Chapter2Problems.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter2Problems\Chapter2Problems\Chapter2Problems\obj\x86\Debug\Chapter2Problems.pdb

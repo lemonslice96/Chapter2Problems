@@ -3,3 +3,8 @@ C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplic
 C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\Eahscs\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EASHCS\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter2Problems\Chapter2Problems\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
