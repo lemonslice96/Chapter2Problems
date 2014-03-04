@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ConsoleApplication2
 {
-    class HoursandMinutes
+    class time
     {
         static void Main(string[] args)
         {
@@ -14,7 +14,7 @@ namespace ConsoleApplication2
             hoursandminutes = minutes / 60;
             remainderminutes = minutes % 60; 
 
-            Console.WriteLine("You worked for {0} hours and {1} minutes!", hoursandminutes, remainderminutes);
+            Console.WriteLine("You worked for {0} hours and {1} minutes", hoursandminutes, remainderminutes);
         }
     }
 }
